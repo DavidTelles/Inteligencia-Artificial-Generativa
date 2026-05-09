@@ -1,1 +1,1 @@
-# Curso-IA
+# Inteligência Artificial Generativa
